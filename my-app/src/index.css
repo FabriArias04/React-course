@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.img-logo {
+  width: 100px;
+}
+.header-flex {
+  display: flex;
+  flex-flow: column nowrap;
+  background-color: #272727;
+  padding: 10px;
+  align-items: center;
+}
+.h1-header {
+  color: #61dbfb;
+}
+.href-header {
+  text-decoration: none;
+  color: #61dbfb;
+  font-size: 30px;
+  padding: 10px;
+}
+.href-header:hover {
+  color: #68bbce;
+}
+.card {
+  width: 400px;
+  margin-top: 50px;
+  margin-left: 700px;
+}
