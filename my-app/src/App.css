@@ -1,0 +1,47 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.header-nav {
+  background-color: #272727;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logo-react {
+  width: 100px;
+  padding-right: 40px;
+}
+.navlink-nav {
+  color: #61dbfb;
+  text-decoration: none;
+  font-size: 30px;
+  padding: 10px 100px;
+}
+.navlink-nav:hover {
+  color: white;
+}
+.carrito-nav {
+  color: #61dbfb;
+  width: 100px;
+  padding-left: 40px;
+}
+.img-item {
+  width: 200px;
+}
+.card-item {
+  width: 100vh;
+  margin: 50px 20px;
+}
+.div-flex {
+  display: flex;
+  flex-direction: row;
+  margin: 0 200px;
+}
+.h1-vacio {
+  color: black;
+  margin: 300px;
+  font-size: 40px;
+}
